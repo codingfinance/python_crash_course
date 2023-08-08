@@ -160,3 +160,4 @@ cython_debug/
 .idea/
 
 github_token.txt
+.DS_Store
